@@ -1,2 +1,3 @@
 # ExercisesHackerRank
-Ejercicios de la plataforma HackerRank.
+Algunos de los ejercicios de la plataforma HackerRank.
+30 días de código.
